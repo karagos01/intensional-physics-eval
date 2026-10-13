@@ -107,6 +107,7 @@ reference verdicts in
 - [`xternary-eval`](https://github.com/karagos01/xternary-eval) — the 2-bit LLM inference engine
 - [`causal-trilogy-eval`](https://github.com/karagos01/causal-trilogy-eval) — the CQFT / PCTP / SOTP trilogy of September 2026
 - [`cymatic-eval`](https://github.com/karagos01/cymatic-eval) — the cymatic stomatal stimulation and pulsed light proposal of October 2026
+- [`openomega-eval`](https://github.com/karagos01/openomega-eval) — the openOmega matter-antimatter and sedenion proposal of October 2026
 
 ## Licence
 

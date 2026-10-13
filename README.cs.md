@@ -109,6 +109,7 @@ u referencí v [`reference-audit`](https://github.com/karagos01/reference-audit)
 - [`xternary-eval`](https://github.com/karagos01/xternary-eval) — 2bitový inferenční engine pro LLM
 - [`causal-trilogy-eval`](https://github.com/karagos01/causal-trilogy-eval) — trilogie CQFT / PCTP / SOTP ze září 2026
 - [`cymatic-eval`](https://github.com/karagos01/cymatic-eval) — cymatická stimulace průduchů a pulzní osvětlení z října 2026
+- [`openomega-eval`](https://github.com/karagos01/openomega-eval) — openOmega, antimaterie a sedeniony z října 2026
 
 ## Licence
 
